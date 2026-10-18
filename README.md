@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./git%20dp.jpeg" width="100%" alt="AR Deepak's Banner">
+  <img src="./WhatsApp%20Image%202026-10-18%20at%201.46.32%20PM.jpeg" width="100%" alt="AR Deepak's Banner">
 </div>
 
 <h1 align="center">Hey, I'm AR Deepak 👋</h1>
